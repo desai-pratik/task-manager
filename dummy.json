@@ -1,0 +1,151 @@
+{
+  "tasks": [
+    {
+      "title": "Task 1",
+      "description": "Complete the design mockups",
+      "category": "Design",
+      "completed": false,
+      "assignedTo": "Alice",
+      "id": "1727902915489"
+    },
+    {
+      "title": "Task 2",
+      "description": "Implement the user authentication system",
+      "category": "Development",
+      "completed": true,
+      "assignedTo": "Bob",
+      "id": "1727902915490"
+    },
+    {
+      "title": "Task 3",
+      "description": "Write documentation for the API",
+      "category": "Documentation",
+      "completed": false,
+      "assignedTo": "Charlie",
+      "id": "1727902915491"
+    },
+    {
+      "title": "Task 4",
+      "description": "Fix bugs in the payment module",
+      "category": "Bug Fix",
+      "completed": true,
+      "assignedTo": "David",
+      "id": "1727902915492"
+    },
+    {
+      "title": "Task 5",
+      "description": "Set up CI/CD pipeline",
+      "category": "DevOps",
+      "completed": false,
+      "assignedTo": "Eva",
+      "id": "1727902915493"
+    },
+    {
+      "title": "Task 6",
+      "description": "Conduct user testing for the new feature",
+      "category": "Testing",
+      "completed": true,
+      "assignedTo": "Frank",
+      "id": "1727902915494"
+    },
+    {
+      "title": "Task 7",
+      "description": "Review code for the new module",
+      "category": "Code Review",
+      "completed": false,
+      "assignedTo": "Grace",
+      "id": "1727902915495"
+    },
+    {
+      "title": "Task 8",
+      "description": "Optimize database queries",
+      "category": "Performance",
+      "completed": true,
+      "assignedTo": "Hank",
+      "id": "1727902915496"
+    },
+    {
+      "title": "Task 9",
+      "description": "Update the project roadmap",
+      "category": "Management",
+      "completed": false,
+      "assignedTo": "Ivy",
+      "id": "1727902915497"
+    },
+    {
+      "title": "Task 10",
+      "description": "Prepare the presentation for the client",
+      "category": "Presentation",
+      "completed": true,
+      "assignedTo": "Jack",
+      "id": "1727902915498"
+    },
+    {
+      "title": "Task 11",
+      "description": "Create wireframes for the new application",
+      "category": "Design",
+      "completed": false,
+      "assignedTo": "Karen",
+      "id": "1727902915499"
+    },
+    {
+      "title": "Task 12",
+      "description": "Test the mobile application",
+      "category": "Testing",
+      "completed": true,
+      "assignedTo": "Leo",
+      "id": "1727902915500"
+    },
+    {
+      "title": "Task 13",
+      "description": "Integrate third-party API for payment processing",
+      "category": "Integration",
+      "completed": false,
+      "assignedTo": "Mona",
+      "id": "1727902915501"
+    },
+    {
+      "title": "Task 14",
+      "description": "Conduct a team meeting for project updates",
+      "category": "Meeting",
+      "completed": true,
+      "assignedTo": "Nina",
+      "id": "1727902915502"
+    },
+    {
+      "title": "Task 15",
+      "description": "Set up the staging environment",
+      "category": "DevOps",
+      "completed": false,
+      "assignedTo": "Oscar",
+      "id": "1727902915503"
+    }
+  ],
+  "users": [
+    {
+      "id": "28d7",
+      "username": "vghfghfhg",
+      "password": "fghfghfgh",
+      "admin": false
+    },
+    {
+      "id": "01dc",
+      "username": "Pratik",
+      "password": "Pratik",
+      "admin": true
+    },
+    {
+      "id": "bdfd",
+      "username": "pratik desai",
+      "email": "pratikdesai2274@gmail.com",
+      "password": "pratik ",
+      "admin": true
+    },
+    {
+      "id": "1dd0",
+      "username": "user",
+      "password": "user",
+      "admin": true
+    }
+  ]
+}
